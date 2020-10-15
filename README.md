@@ -8,7 +8,7 @@
 
 ### Projetos
 - [VendaSimples - Sistema de Gestão Empresarial (Co-Fundador)](https://vendasimples.com.br)
-- [Bredas Sistemas (Diretor de Tecnologia e Inovação)](https://bredas.com.br)
+- [Bredas Sistemas - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)](https://bredas.com.br)
 - [Co-Fundador do Grupo de Discussão de Microservices no Telegram (MicroServices Brasil)](https://t.me/microservicesbr)
 - [Contribuidor e Mantenedor do Projeto ZeusDFE no Github (Emissão de NFe e outros documentos fiscais)](https://github.com/ZeusAutomacao/DFe.NET)
 
