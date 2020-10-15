@@ -7,15 +7,17 @@
 - :boy: :older_man: Lidero uma equipe de desenvolvimento com diferentes tecnologias e idade.
 
 ### Projetos
-- [VendaSimples - Sistema de Gestão Empresarial (Co-Fundador)](https://vendasimples.com.br)
-- [Bredas Sistemas - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)](https://bredas.com.br)
-- [Co-Fundador do Grupo de Discussão de Microservices no Telegram (MicroServices Brasil)](https://t.me/microservicesbr)
-- [Contribuidor e Mantenedor do Projeto ZeusDFE no Github (Emissão de NFe e outros documentos fiscais)](https://github.com/ZeusAutomacao/DFe.NET)
+<ul>
+<li><a href="https://vendasimples.com.br" target="_blank">VendaSimples - Sistema de Gestão Empresarial (Co-Fundador)</a></li>
+<li><a href="https://www.bredas.com.br" target="_blank">Bredas Sistemas - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)</a></li>
+<li><a href="https://t.me/microservicesbr" target="_blank">Co-Fundador do Grupo de Discussão de Microservices no Telegram (MicroServices Brasil)</a></li>
+<li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank">Contribuidor e Mantenedor do Projeto ZeusDFE no Github (Emissão de NFe e outros documentos fiscais)</a></li>
+</ul>
 
 ### Links
-<a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-costa-breda-2b07589b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2320132/danilo-breda" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="danilo-breda" height="30" width="40" /></a>
-<a href="https://fb.com/danilo.c.breda" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="danilo.c.breda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-costa-breda-2b07589b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2320132/danilo-breda" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="danilo-breda" height="30" width="40" /></a>
+<a href="https://fb.com/danilo.c.breda" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="danilo.c.breda" height="30" width="40" /></a>
      :email: danilo@bredas.com.br
 
 
