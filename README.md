@@ -21,7 +21,7 @@
      :email: danilo@bredas.com.br
 
 
-### Linguagens e Ferramentas:
+### Linguagens e Ferramentas
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
@@ -29,4 +29,9 @@
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-![](https://komarev.com/ghpvc/?username=danilobreda&label=Visualizações+de+perfil&style=flat-square&color=grey)
+### Meu GitHub
+<img src="https://komarev.com/ghpvc/?username=danilobreda&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="danilobreda" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobreda&layout=compact" alt="danilobreda" />
+<img src="https://github-readme-stats.vercel.app/api?username=danilobreda&show_icons=true" alt="danilobreda" />
+</p>
