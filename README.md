@@ -22,17 +22,16 @@
 
 ### Linguagens e Ferramentas
 <p>
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-e93940?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Csharp" src="https://img.shields.io/badge/-C%23-7c209C?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-702D91?style=flat-square&logo=.net&logoColor=white" />
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-e9b040?style=flat-square&logo=amazon%20aws&logoColor=white" />
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-47bb40?style=flat-square&logo=swagger&logoColor=white" />
-  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-338791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-338791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-e93940?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0989D6?style=flat-square&logo=microsoft%20azure&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Coke" src="https://img.shields.io/badge/-Coke%3F-FF0000?style=flat-square&logo=coke&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-702D91?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="Csharp" src="https://img.shields.io/badge/-C%23-7c209C?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-47bb40?style=flat-square&logo=swagger&logoColor=white" />
 </p>
 
 ### Meu GitHub
