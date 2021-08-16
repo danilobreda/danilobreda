@@ -8,10 +8,10 @@
 
 ### Projetos
 <ul>
-<li><a href="https://vendasimples.com.br" target="_blank">VendaSimples - Sistema de Gestão Empresarial (Co-Fundador)</a></li>
-<li><a href="http://www.bredas.com.br" target="_blank">Bredas Sistemas - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)</a></li>
-<li><a href="https://t.me/microservicesbr" target="_blank">Co-Fundador do Grupo de Discussão de Microservices no Telegram (MicroServices Brasil)</a></li>
-<li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank">Contribuidor e Mantenedor do Projeto ZeusDFE no Github (Emissão de NFe e outros documentos fiscais)</a></li>
+     <li><a href="https://vendasimples.com.br" target="_blank">VendaSimples - Sistema de Gestão Empresarial (Co-Fundador)</a></li>
+     <li><a href="http://www.bredas.com.br" target="_blank">Bredas Sistemas - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)</a></li>
+     <li><a href="https://t.me/microservicesbr" target="_blank">Co-Fundador do Grupo de Discussão de Microservices no Telegram (MicroServices Brasil)</a></li>
+     <li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank">Contribuidor e Mantenedor do Projeto ZeusDFE no Github (Emissão de NFe e outros documentos fiscais)</a></li>
 </ul>
 
 ### Links
@@ -29,14 +29,15 @@
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-338791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-e93940?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0989D6?style=flat-square&logo=microsoft%20azure&logoColor=white" />
+  <img alt="Azure Devops" src="https://img.shields.io/badge/-Azure%20Devops-0989D6?style=flat-square&logo=azure-devops&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Code-1073C9?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Notepad++" src="https://img.shields.io/badge/-Notepad++-green?style=flat-square&logo=notepadplusplus&logoColor=white" />
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-47bb40?style=flat-square&logo=swagger&logoColor=white" />
 </p>
 
 ### Meu GitHub
 <img src="https://komarev.com/ghpvc/?username=danilobreda&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="danilobreda" />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobreda&layout=compact" alt="danilobreda" />
-<img src="https://github-readme-stats.vercel.app/api?username=danilobreda&show_icons=true" alt="danilobreda" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobreda&layout=compact" alt="danilobreda" />
+     <img src="https://github-readme-stats.vercel.app/api?username=danilobreda&show_icons=true" alt="danilobreda" />
 </p>
