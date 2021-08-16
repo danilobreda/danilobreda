@@ -15,7 +15,7 @@
 </ul>
 
 ### Links
-<a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-costa-breda-2b07589b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="_blank"><img style="background-color:black" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-costa-breda-2b07589b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2320132/danilo-breda" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="danilo-breda" height="30" width="40" /></a>
 <a href="https://fb.com/danilo.c.breda" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="danilo.c.breda" height="30" width="40" /></a>
      :email: danilo@bredas.com.br
