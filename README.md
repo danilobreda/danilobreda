@@ -38,32 +38,32 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-#### Utilizo (não sei por completo, apenas o basico para se utilizar)
+#### Utilizo (Sei o bastante para utilizar, não sou especialista)
 
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl&logoColor=white)
-![LSL](https://img.shields.io/badge/SecondLife%20LSL-%23FFABCD.svg?style=flat-square&logo=Scratch&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![OpenGL](https://img.shields.io/badge/OpenGL-black.svg?style=flat-square&logo=opengl)
+![LSL](https://img.shields.io/badge/SecondLife%20LSL-black.svg?style=flat-square&logo=Scratch)
 
 #### Em fase de aprendizado
-![.Net MAUI](https://img.shields.io/badge/MAUI-3199DC?style=flat-square&logo=dotnet&logoColor=white)
-![.Net BLAZOR](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat-square&logo=blazor&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![.Net MAUI](https://img.shields.io/badge/MAUI-black?style=flat-square&logo=dotnet)
+![.Net BLAZOR](https://img.shields.io/badge/blazor-black.svg?style=flat-square&logo=blazor)
+![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 #### Quero Aprender
-![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
-![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
+![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=SASS)
+![Type Script](https://img.shields.io/badge/Type%20Script-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
 ## Meu GitHub
 <img src="https://komarev.com/ghpvc/?username=danilobreda&label=Visualizações+de+perfil&style=flat-square&color=grey" alt="danilobreda" />
