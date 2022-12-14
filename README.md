@@ -38,7 +38,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-#### Utilizo (Sei o bastante para utilizar, não sou especialista)
+#### Conhecimento Intermediário
 
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
