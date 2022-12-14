@@ -15,11 +15,11 @@
 </ul>
 
 ### Links
-<a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danilo-costa-breda-2b07589b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/2320132/danilo-breda" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="danilo-breda" height="30" width="40" /></a>
-<a href="https://fb.com/danilo.c.breda" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="danilo.c.breda" height="30" width="40" /></a>
-     :email: danilo@bredas.com.br
-
+<p>
+     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-7c209C?style=social&logo=linkedin&logoColor=blue"><a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="_blank"></a></img>
+     <br/>
+     <img alt="StackOveflow" src="https://img.shields.io/badge/-StackOveflow-7c209C?style=social&logo=stackoverflow&logoColor=orange"><a href="https://stackoverflow.com/users/2320132/danilo-breda" target="_blank"></a></img>     
+</p>
 ## Linguagens e Ferramentas
 <p>
   <img alt="Csharp" src="https://img.shields.io/badge/-C%23-7c209C?style=flat-square&logo=c-sharp&logoColor=white" />
