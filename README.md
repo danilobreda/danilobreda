@@ -2,7 +2,7 @@
 <h2 align="center">Diretor de Tecnologia na Breda's Sistemas, Marília/SP</h2>
 
 - :computer: Sou especialista na plataforma .NET, e :blue_heart: trabalhar com C#.
-- :rocket: Gosto muito de desenvolver produtos onde o foco principal é sempre em qualidade e evolulção do negócio, por isso atuo bastante na area de inovação.
+- :rocket: Gosto muito de desenvolver produtos onde o foco principal é sempre em qualidade e evolução do negócio, por isso atuo bastante na area de inovação.
 - :fax: :iphone: Gerencio produtos e projetos de diversos tamanhos e tempos de mercado.
 - :boy: :older_man: Lidero uma equipe de desenvolvimento com diferentes tecnologias e idade.
 
