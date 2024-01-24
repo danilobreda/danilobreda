@@ -51,18 +51,15 @@
 
 #### Em fase de aprendizado
 ![.Net MAUI](https://img.shields.io/badge/MAUI-black?style=flat-square&logo=dotnet)
-![.Net BLAZOR](https://img.shields.io/badge/blazor-black.svg?style=flat-square&logo=blazor)
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 #### Quero Aprender
-![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
+![.Net BLAZOR](https://img.shields.io/badge/blazor-black.svg?style=flat-square&logo=blazor)
 ![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=SASS)
 ![Type Script](https://img.shields.io/badge/Type%20Script-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
 ## Meu GitHub
