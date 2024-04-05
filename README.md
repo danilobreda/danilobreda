@@ -8,10 +8,10 @@
 
 ### Projetos
 <ul>
-     <li><a href="https://vendasimples.com.br" target="_blank">VendaSimples - Sistema de Gestão Empresarial (Co-Fundador)</a></li>
-     <li><a href="http://www.bredas.com.br" target="_blank">Bredas Sistemas - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)</a></li>
-     <li><a href="https://t.me/microservicesbr" target="_blank">Co-Fundador do Grupo de Discussão de Microservices no Telegram (MicroServices Brasil)</a></li>
-     <li><a href="https://github.com/ZeusAutomacao/DFe.NET" target="_blank">Contribuidor e Mantenedor do Projeto ZeusDFE no Github (Emissão de NFe e outros documentos fiscais)</a></li>
+     <li><a href="https://vendasimples.com.br" target="_blank">**VendaSimples** - Sistema de Gestão Empresarial (Co-Fundador)</a></li>
+     <li><a href="http://www.bredas.com.br" target="_blank">**Bredas Sistemas** - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)</a></li>
+     <li><a href="https://github.com/Hercules-NET/ZeusFiscal" target="_blank">Contribuidor e Mantenedor do Projeto **ZeusFiscal** no Github (A Principal Biblioteca em C# para Emissão e Impressão de NFe, NFCe, MDF-e e CT-e )</a></li>
+     <li><a href="https://t.me/microservicesbr" target="_blank">Co-Fundador do Grupo de Discussão de **Microservices** no Telegram (MicroServices Brasil)</a></li>
 </ul>
 
 ### Links
@@ -40,6 +40,10 @@
 
 #### Conhecimento Intermediário
 
+![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -51,10 +55,7 @@
 
 #### Em fase de aprendizado
 ![.Net MAUI](https://img.shields.io/badge/MAUI-black?style=flat-square&logo=dotnet)
-![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
-![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![LUA](https://img.shields.io/badge/-LUA-black?style=flat-square&logo=lua)
 
 #### Quero Aprender
 ![.Net BLAZOR](https://img.shields.io/badge/blazor-black.svg?style=flat-square&logo=blazor)
