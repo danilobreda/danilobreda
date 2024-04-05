@@ -15,11 +15,9 @@
 </ul>
 
 ### Links
-<p>
-     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-7c209C?style=social&logo=linkedin&logoColor=blue"><a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="_blank"></a></img>
-     <br/>
-     <img alt="StackOveflow" src="https://img.shields.io/badge/-StackOveflow-7c209C?style=social&logo=stackoverflow&logoColor=orange"><a href="https://stackoverflow.com/users/2320132/danilo-breda" target="_blank"></a></img>     
-</p>
+
+![Linkedin](https://linkedin.com/in/danilo-costa-breda-2b07589b)    
+![StackOverflow](https://stackoverflow.com/users/2320132/danilo-breda)
 
 ## Linguagens e Ferramentas
 
