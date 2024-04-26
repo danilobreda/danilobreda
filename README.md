@@ -16,8 +16,10 @@
 
 ### Links
 
-![Linkedin](https://linkedin.com/in/danilo-costa-breda-2b07589b)    
-![StackOverflow](https://stackoverflow.com/users/2320132/danilo-breda)
+<ul>
+     <li><a href="https://linkedin.com/in/danilo-costa-breda-2b07589b" target="_blank">Linkedin</a></li>
+     <li><a href="https://stackoverflow.com/users/2320132/danilo-breda" target="_blank">StackOverflow</a></li>
+</ul>
 
 ## Linguagens e Ferramentas
 
