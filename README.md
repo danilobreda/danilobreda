@@ -55,7 +55,6 @@
 
 #### Em fase de aprendizado
 ![.Net MAUI](https://img.shields.io/badge/MAUI-black?style=flat-square&logo=dotnet)
-![LUA](https://img.shields.io/badge/-LUA-black?style=flat-square&logo=lua)
 
 #### Quero Aprender
 ![.Net BLAZOR](https://img.shields.io/badge/blazor-black.svg?style=flat-square&logo=blazor)
