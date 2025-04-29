@@ -10,7 +10,7 @@
 <ul>
      <li><a href="https://vendasimples.com.br" target="_blank">VendaSimples - Sistema de Gestão Empresarial (Co-Fundador)</a></li>
      <li><a href="http://www.bredas.com.br" target="_blank">Bredas Sistemas - Desenvolvimento de Software e Soluções (Diretor de Tecnologia e Inovação)</a></li>
-     <li><a href="https://github.com/Hercules-NET/ZeusFiscal" target="_blank">Contribuidor e Mantenedor do Projeto ZeusFiscal no Github (A Principal Biblioteca em C# para Emissão e Impressão de NFe, NFCe, MDF-e e CT-e )</a></li>
+     <li><a href="https://github.com/Hercules-NET/ZeusFiscal" target="_blank">Contribuidor e Mantenedor do Projeto ZeusFiscal (Hercules) no Github (A Principal Biblioteca em C# para Emissão e Impressão de NFe, NFCe, MDF-e e CT-e )</a></li>
      <li><a href="https://t.me/microservicesbr" target="_blank">Co-Fundador do Grupo de Discussão de Microservices no Telegram (MicroServices Brasil)</a></li>
 </ul>
 
