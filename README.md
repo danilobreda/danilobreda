@@ -44,6 +44,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![.Net MAUI](https://img.shields.io/badge/MAUI-black?style=flat-square&logo=dotnet)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -54,12 +55,11 @@
 ![LSL](https://img.shields.io/badge/SecondLife%20LSL-black.svg?style=flat-square&logo=Scratch)
 
 #### Em fase de aprendizado
-![.Net MAUI](https://img.shields.io/badge/MAUI-black?style=flat-square&logo=dotnet)
+![Type Script](https://img.shields.io/badge/Type%20Script-black?style=flat-square&logo=typescript)
 
 #### Quero Aprender
 ![.Net BLAZOR](https://img.shields.io/badge/blazor-black.svg?style=flat-square&logo=blazor)
 ![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=SASS)
-![Type Script](https://img.shields.io/badge/Type%20Script-black?style=flat-square&logo=typescript)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 
 ## Meu GitHub
